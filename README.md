@@ -36,9 +36,8 @@ Open het index.html bestand. Hier kan je de eerste pagina zien van de website.
 Hieronder zijn commandlines van HTTPS en SSH die je kunt uitvoeren in de opdrachtprompt om het project te clonen en om naar de root directory te gaan.
 
 Installeren met HTTPS
-
-git clone https://github.com/DphnZwp/the-startup-coding-the-curbs.git
-cd https://github.com/DphnZwp/the-startup-coding-the-curbs.git
+git clone https://github.com/DphnZwp/connect-your-tribe-fdnd-visitekaartje.git
+cd https://github.com/DphnZwp/connect-your-tribe-fdnd-visitekaartje.git
 Installeren met SSH
 
 git@github.com:DphnZwp/the-startup-coding-the-curbs.git
