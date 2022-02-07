@@ -50,11 +50,11 @@ git@github.com:DphnZwp/the-startup-coding-the-curbs.git
 cd connect-your-tribe-fdnd-visitekaartje
 ```
 
-## Gebruik
+## 📱 Gebruik
 
-## Bronnen
+## 📚 Bronnen
 
-## Licentie
+## 📃 Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
