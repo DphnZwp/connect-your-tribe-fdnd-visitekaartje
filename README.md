@@ -53,7 +53,7 @@ cd connect-your-tribe-fdnd-visitekaartje
 ## 📱 Gebruik
 
 ## 📕 Wiki
-Link naar de [Wiki]()
+Link naar de [Wiki](https://github.com/DphnZwp/connect-your-tribe-fdnd-visitekaartje/wiki)
 
 ## 📚 Bronnen
 
