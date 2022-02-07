@@ -2,12 +2,12 @@
 
 ## Inhoudsopgave
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+  * [Beschrijving](##beschrijving)
+  * [Kenmerken](##kenmerken)
+  * [Installatie](##installatie)
+  * [Gebruik](##gebruik)
+  * [Bronnen](##bronnen)
+  * [Licentie](##licentie)
 
 ## 📓 Beschrijving
 De opdracht is om een herontwerp te maken van mijn visitekaartje van sprint 1 op basis van de bestaande API.
