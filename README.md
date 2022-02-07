@@ -1,6 +1,6 @@
 # 🎴Visitekaartje herontwerp op basis van API
 
-## Inhoudsopgave
+## 📓Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
