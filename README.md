@@ -1,4 +1,4 @@
-# 🎴 Visitekaartje herontwerp op basis van API
+# 🎴Visitekaartje herontwerp op basis van API
 
 ## Inhoudsopgave
 
