@@ -1,0 +1,113 @@
+/* VARIABLES CSS */
+
+:root {
+	--light-blue: #dcdfef;
+	--dark-blue: #3a457f;
+	--white: #fff;
+	--black: #000;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: Kelson Sans, sans-serif;
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1,
+h2,
+h3,
+p {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 6.25rem;
+}
+
+h2 {
+  font-weight: 700;
+	font-size: 3.125rem;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 1.563rem;
+}
+
+p {
+  font-weight: 400;
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+a {
+	line-height: 1.5;
+}
+
+section {
+	background-color: var(--light-blue);
+}
+
+img {
+	display: block;
+}
+
+.daphne-laptop {
+	margin-top: 2em;
+	width: 25em;
+}
+
+.fake-h1 {
+	font-size: 3.125rem;
+}
+
+.information>h2 {
+	margin-bottom: 2rem;
+}
+
+.contact {
+	display: flex;
+	flex-direction: column;
+}
+
+.about, 
+.skills, 
+.contact {
+	padding: 2.5em;
+	background-color: var(--white);
+}
+
+.daphne-questions {
+	height: 20em;
+}
+
+/* DESKTOP */
+
+@media (min-width: 70em) {
+	main {
+		padding: 5em;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+	}
+
+	section {
+		padding: 5em;
+	}
+
+	.information {
+		display: flex;
+		flex-direction: column;
+		gap: 2em;
+	}
+}
