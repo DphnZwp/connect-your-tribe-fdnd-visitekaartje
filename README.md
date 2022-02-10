@@ -56,6 +56,7 @@ cd connect-your-tribe-fdnd-visitekaartje
 Link naar de [Wiki](https://github.com/DphnZwp/connect-your-tribe-fdnd-visitekaartje/wiki)
 
 ## 📚 Bronnen
+https://www.flaticon.com/
 
 ## 📃 Licentie
 
