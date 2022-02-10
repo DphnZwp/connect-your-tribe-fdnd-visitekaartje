@@ -38,6 +38,7 @@ h1 {
 h2 {
   font-weight: 700;
 	font-size: 3.125rem;
+	line-height: 1.1;
 }
 
 h3 {
@@ -52,11 +53,33 @@ p {
 }
 
 a {
+	color: var(--black);
 	line-height: 1.5;
+	text-decoration: none;
 }
 
-section {
+a:hover {
+	color: var(--dark-blue);
+	text-decoration: underline;
+}
+
+/* HERO */
+
+.hero {
 	background-color: var(--light-blue);
+}
+
+/* INFORMATION */
+
+.about, 
+.skills, 
+.contact {
+	padding: 2.5em;
+	background-color: var(--light-blue);
+}
+
+.information {
+	background-color: var(--dark-blue);
 }
 
 img {
@@ -68,12 +91,12 @@ img {
 	width: 25em;
 }
 
-.fake-h1 {
+.small-h1 {
 	font-size: 3.125rem;
 }
 
-.information>h2 {
-	margin-bottom: 2rem;
+.skills>h2 {
+	margin-bottom: 1rem;
 }
 
 .contact {
@@ -81,11 +104,23 @@ img {
 	flex-direction: column;
 }
 
-.about, 
-.skills, 
-.contact {
-	padding: 2.5em;
-	background-color: var(--white);
+.contact>h2 {
+	margin-bottom: 1rem;
+}
+
+.contact>h3 {
+	margin-bottom: 0.5rem;
+}
+
+svg {
+	margin-right: 0.5em;
+	fill: var(--dark-blue);
+	width: 2em;
+	height: auto;
+}
+
+.margin-bottom {
+	margin-bottom: 1rem;
 }
 
 .daphne-questions {
@@ -104,6 +139,8 @@ img {
 	section {
 		padding: 5em;
 	}
+
+	/* INFORMATION */
 
 	.information {
 		display: flex;
