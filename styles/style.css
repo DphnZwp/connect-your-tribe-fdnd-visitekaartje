@@ -49,24 +49,38 @@ h3 {
 p {
   font-weight: 400;
 	font-size: 1rem;
-	line-height: 1.5;
+	line-height: 1.6;
 }
 
 a {
 	color: var(--black);
-	line-height: 1.5;
+	line-height: 1.6;
 	text-decoration: none;
 }
 
-a:hover {
+a:hover, a:hover path {
 	color: var(--dark-blue);
-	text-decoration: underline;
+	fill: var(--dark-blue);
 }
 
 /* HERO */
 
 .hero {
 	background-color: var(--light-blue);
+}
+
+.logo {
+	margin-bottom: 0.8rem;
+	display: block;
+}
+
+.daphne-laptop {
+	margin-top: 4em;
+	width: 30em;
+}
+
+.small-h1 {
+	font-size: 3.125rem;
 }
 
 /* INFORMATION */
@@ -82,17 +96,8 @@ a:hover {
 	background-color: var(--dark-blue);
 }
 
-img {
-	display: block;
-}
-
-.daphne-laptop {
-	margin-top: 2em;
-	width: 25em;
-}
-
-.small-h1 {
-	font-size: 3.125rem;
+.about>h2 {
+	margin-bottom: 1rem;
 }
 
 .skills>h2 {
@@ -112,11 +117,14 @@ img {
 	margin-bottom: 0.5rem;
 }
 
+.socials-flex {
+	display: flex;
+	gap: 1rem;
+}
+
 svg {
 	margin-right: 0.5em;
-	fill: var(--dark-blue);
 	width: 2em;
-	height: auto;
 }
 
 .margin-bottom {
@@ -124,6 +132,7 @@ svg {
 }
 
 .daphne-questions {
+	margin-top: 1em;
 	height: 20em;
 }
 
