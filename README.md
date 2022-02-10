@@ -1,4 +1,5 @@
 # 🎴 Visitekaartje herontwerp op basis van API
+🌐 [daphnevisitekaartje.student.fdnd.nl](https://daphnevisitekaartje.student.fdnd.nl/)
 
 ## Inhoudsopgave
 
@@ -13,7 +14,6 @@
 De opdracht is om een herontwerp te maken van mijn visitekaartje van sprint 1 op basis van de bestaande API.
 
 <!-- Voeg een mooie poster visual toe 📸 -->
-🌐 [daphnevisitekaartje.student.fdnd.nl](https://daphnevisitekaartje.student.fdnd.nl/)
 
 ## ♠️ Kenmerken
 
