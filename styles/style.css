@@ -67,6 +67,7 @@ a:hover, a:hover path {
 
 .hero {
 	background-color: var(--light-blue);
+	padding: 3em;
 }
 
 .logo {
@@ -75,8 +76,9 @@ a:hover, a:hover path {
 }
 
 .daphne-laptop {
+	display: block;
 	margin-top: 4em;
-	width: 30em;
+	width: 100%;
 }
 
 .small-h1 {
