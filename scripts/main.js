@@ -40,7 +40,7 @@ function postAndRenderData () {
 				prefix: "",
 				surname: "Zwuup",
 				avatar: "https://user-images.githubusercontent.com/69635977/152969274-ab1750ee-c03d-4c35-9515-87af46475203.png",
-				githubHandle: "",
+				githubHandle: "https://github.com/DphnZwp",
 				bio: "Mijn hobby is digitaal tekenen. Ik zit nu in het eerste jaar van de opleiding Frontend Design & Development en ik maak daar met veel plezier websites.",
 				url: "\r"
 		})
