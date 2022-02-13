@@ -13,7 +13,6 @@
 De opdracht is om een herontwerp te maken van mijn visitekaartje van sprint 1 op basis van de bestaande API.
 
 🌐 [daphnevisitekaartje.student.fdnd.nl](https://daphnevisitekaartje.student.fdnd.nl/)
-
 ![screencapture-daphnevisitekaartje-student-fdnd-nl-2022-02-14-00_02_53](https://user-images.githubusercontent.com/69635977/153779202-698610e9-7977-4e54-b5b9-84047b60fef2.png)
 
 ## ♠️ Kenmerken
