@@ -18,7 +18,7 @@ function findStudent(data) {
 		if(element.memberId == memberId) {
 			const daphne = element;
 			nameEl.innerText = `Hallo, ik ben ${daphne.name}`
-			bioEl.innerText = `Hallo, ik ben ${daphne.bio}`
+			bioEl.innerText = `${daphne.bio}`
 		}
 	});
 }
