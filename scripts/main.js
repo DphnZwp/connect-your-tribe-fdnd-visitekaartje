@@ -1,8 +1,10 @@
+// 1. Variables
 const memberId = 13;
 const baseUrl = 'https://tribe.api.fdnd.nl/v1'
 const nameEl = document.getElementById('name')
 const bioEl = document.getElementById('bio')
 
+// 2. The logic
 postAndRenderData()
 
 fetch("https://tribe.api.fdnd.nl/v1/member")
@@ -12,7 +14,7 @@ fetch("https://tribe.api.fdnd.nl/v1/member")
 .then(data =>
 	findStudent(data.data)
 )
-
+// 3. Functions
 function findStudent(data) {
 	data.forEach(element => {
 		if(element.memberId == memberId) {
