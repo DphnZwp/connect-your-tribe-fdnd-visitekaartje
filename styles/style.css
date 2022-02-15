@@ -167,8 +167,16 @@ svg {
 }
 
 @media (min-width: 100em) {
+	p {
+		font-size: 1.5rem;
+	}
+
+	a {
+		font-size: 1.5rem;
+	}
+
 	.daphne-laptop {
 		margin: 4em auto 0 auto;
-		width: 50%;
+		width: 60%;
 	}
 }
