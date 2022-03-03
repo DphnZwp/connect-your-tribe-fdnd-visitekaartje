@@ -72,6 +72,7 @@ a:hover, a:hover path {
 
 .logo {
 	margin-bottom: 0.8rem;
+	width: 100%;
 	display: block;
 }
 
@@ -135,7 +136,7 @@ svg {
 
 .questions-image {
 	margin-top: 1em;
-	height: 20em;
+	width: 20em;
 }
 
 /* DESKTOP */
@@ -151,7 +152,7 @@ svg {
 		padding: 5em;
 	}
 
-	.daphne-laptop {
+	.daphne-image {
 		display: block;
 		margin: 4em auto 0 auto;
 		width: 80%;
@@ -175,7 +176,7 @@ svg {
 		font-size: 1.5rem;
 	}
 
-	.daphne-laptop {
+	.daphne-image {
 		margin: 4em auto 0 auto;
 		width: 60%;
 	}
