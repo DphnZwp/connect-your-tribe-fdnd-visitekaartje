@@ -147,7 +147,7 @@ svg {
 		grid-template-columns: repeat(2, 1fr);
 	}
 
-	section {
+	article {
 		padding: 5em;
 	}
 
