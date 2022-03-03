@@ -75,7 +75,7 @@ a:hover, a:hover path {
 	display: block;
 }
 
-.daphne-laptop {
+.daphne-image {
 	display: block;
 	margin: 4em 0 0 0;
 	width: 100%;
@@ -133,7 +133,7 @@ svg {
 	margin-bottom: 1rem;
 }
 
-.daphne-questions {
+.questions-image {
 	margin-top: 1em;
 	height: 20em;
 }
